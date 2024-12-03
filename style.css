@@ -88,7 +88,6 @@ footer{
     top: 88%;
     left: 0%;
     height: 20px;
-    border: 1px solid black;
     color: white;
     background-color: red;
     font-size: 12px;
@@ -98,7 +97,30 @@ footer{
 }
 
 .green{
+    position: absolute;
+    top: 88%;
+    left: 10%;
+    height: 20px;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+    padding: 3px;
+    text-align: center;
+    align-content: center;
+}
 
+
+.green2{
+    position: absolute;
+    top: 88%;
+    left: 0%;
+    height: 20px;
+    color: white;
+    background-color: green;
+    font-size: 12px;
+    padding: 3px;
+    text-align: center;
+    align-content: center;
 }
 
 .prize{
