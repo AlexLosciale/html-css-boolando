@@ -25,9 +25,12 @@ main{
 }
 
 footer{
-    background-color: rgb(120, 62, 62);
-    height: 100px;
+    background-color: #1A1A1A;
     border: 1px solid black;
+    padding: 1% 10% 1% 10%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
 }
 
 .gender{ 
@@ -83,4 +86,8 @@ h3{
 
 a{
     color: red;
+}
+
+.info p{
+    font-size: 12px;
 }
