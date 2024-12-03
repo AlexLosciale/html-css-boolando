@@ -68,3 +68,19 @@ footer{
     width: 100%;
     border: 1px solid black;
 }
+
+h3{
+    font-size: medium;
+}
+
+.prize p{
+    font-size: 12px;
+}
+
+.prize span{
+    font-size: 12px;
+}
+
+a{
+    color: red;
+}
